@@ -42,3 +42,74 @@ Functionality elements indicate interactive components such as buttons, forms, a
 ---
 
 By focusing on these elements, wireframes provide a clear and functional outline that guides designers and developers throughout the project lifecycle, ensuring the final product is user-friendly and aligned with business goals.
+
+## 📐 Types of Wireframes
+
+Wireframes are essential tools in the UX/UI design process, serving as blueprints for digital interfaces. They vary in fidelity, each serving distinct purposes at different stages of design.
+
+### 🟦 Low-Fidelity Wireframes
+
+**Definition:**  
+Low-fidelity wireframes are basic, often hand-drawn or digitally created sketches that outline the structure and functionality of a design without delving into visual details.
+
+**Key Characteristics:**
+- **Visual Design:** Minimalistic, typically grayscale with simple shapes and lines.
+- **Content:** Uses placeholder text (e.g., Lorem Ipsum) and generic images.
+- **Interactivity:** Limited or no interactivity; focuses on layout and user flow.
+- **Creation Time:** Quick to produce, facilitating rapid iteration.
+- **Purpose:** Ideal for early-stage brainstorming, concept validation, and gathering initial feedback.
+
+**When to Use:**
+- During the initial stages of the design process.
+- To explore different layout options and user flows.
+- For team discussions and stakeholder alignment without the distraction of visual details.
+
+**Advantages:**
+- Encourages creativity and open discussion.
+- Easy to modify and iterate upon.
+- Cost-effective and time-efficient.
+
+**Disadvantages:**
+- Lacks visual appeal, which might make it harder for stakeholders to envision the final product.
+- Limited in demonstrating detailed interactions or animations.
+
+---
+
+### 🟩 High-Fidelity Wireframes
+
+**Definition:**  
+High-fidelity wireframes are detailed, polished representations of a design, closely resembling the final product in both appearance and functionality.
+
+**Key Characteristics:**
+- **Visual Design:** Incorporates colors, typography, images, and branding elements.
+- **Content:** Utilizes real or realistic content, providing a more accurate representation.
+- **Interactivity:** Includes interactive elements, such as clickable buttons and navigation flows.
+- **Creation Time:** More time-consuming due to the level of detail.
+- **Purpose:** Used for usability testing, stakeholder presentations, and as a reference for developers.
+
+**When to Use:**
+- In the later stages of the design process.
+- To test detailed user interactions and gather specific feedback.
+- For presenting the design to stakeholders or clients for approval.
+
+**Advantages:**
+- Provides a realistic preview of the final product.
+- Facilitates detailed usability testing and feedback.
+- Helps in aligning stakeholders and developers with the design vision.
+
+**Disadvantages:**
+- Time-intensive to create and update.
+- May lead to overemphasis on aesthetics before finalizing functionality.
+
+---
+
+## 🔍 Analysis of the Figma Wireframe
+
+The wireframe shown in the provided Figma link is a **high-fidelity wireframe**, because:
+
+- **Visual Design:** It contains detailed colors, typography, and images, typical of high-fidelity wireframes.
+- **Content:** Uses realistic content, providing a clear preview of the final product.
+- **Interactivity:** Demonstrates interactive elements and navigation flows.
+- **Purpose:** It is suited for usability testing, stakeholder presentations, and development reference.
+
+In summary, this Figma wireframe is a polished, high-detail design used for detailed user interaction testing and realistic visualization of the final product.
